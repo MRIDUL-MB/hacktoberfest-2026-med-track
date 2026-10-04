@@ -1,0 +1,4 @@
+.env
+med_tracker_data.json
+med_tracker_data.json.tmp
+__pycache__/
